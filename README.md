@@ -14,11 +14,16 @@ Open Powershell and type:
 ```
 pip install openai
 ```
-## 3.Fill in your api_key
 
-## 4.Run the Python file
+## 3.Download easyGPT.py
 
-## 5.Input your question and get your answer
+## 4.Fill in your api_key
+
+[api_key](https://platform.openai.com/account/api-keys)
+
+## 5.Run the Python file
+
+## 6.Input your question and get your answer
 
 # A use case
 Q:如何评价原神？
